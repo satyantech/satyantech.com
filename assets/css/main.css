@@ -534,13 +534,3 @@ body .header {
 	line-height: 38px;
 }
 }
-
-.profile-img{
-	display:inline-block;
-	background:url(../img/me.jpg) no-repeat center;
-	background-size:110% 100%;
-	width:200px;
-	height:200px;
-	border-radius:500px;
-	margin-top:10% auto;
-}
