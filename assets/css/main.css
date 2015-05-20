@@ -544,3 +544,27 @@ body .header {
 	border-radius:500px;
 	margin-top:10% auto;
 }
+
+
+
+/*************************************************************************/
+.article{
+	padding:10px;
+	border-bottom:1px solid #00DEFD;
+}
+.article:hover{
+	background:#eee;
+}
+.article .article-title{
+	display:block;
+	font-size:18px;
+	font-weight:600;
+	border-bottom:1px solid #000;
+}
+.article .article-content{
+	text-align:justify;
+	font-size:15px;
+}
+.article .more{
+	text-align:right;
+}
